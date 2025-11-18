@@ -45,34 +45,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanaztuli&" alt="shanaztuli" /></p>
 
-<table>
-  <tr>
-    <!-- Left Column: Text -->
-    <td width="60%" valign="top">
-      <h1>Hi, I'm Shanaz 👋</h1>
-      <h3>Junior Frontend Developer</h3>
 
-      📍 Location: United Kingdom  
-      📧 Email: shanazparbinloskortuli@gmail.com
+  
 
-      ## 🚀 About Me
-      Hi! I’m a junior frontend developer passionate about building clean, responsive, and user-friendly web applications.  
 
-      **Currently:**  
-      - 🌱 Exploring **Next.js**  
-      - 🛠️ Building projects using **React & Express**  
-      - 🗺️ Working on a **Parcel Delivery website**  
-      - 📚 Learning more about **API development** and **backend logic**
-    </td>
-
-   
-    <td width="40%" valign="top" align="center">
-      <img src="https://i.ibb.co/7x415s59/image.jpg" style="border-radius:50%;" />
-    </td>
-  </tr>
-</table>
-
----
 
 ## 🛠️ Skills
 <p align="left">
