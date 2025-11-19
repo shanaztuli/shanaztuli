@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/DHTTcW7M/Screenshot-2025-11-18-205549.png" width="100%" />
+  <img src="https://i.ibb.co/NPRL1ww/Screenshot-2025-11-19-184201.png" width="100%" />
 </p>
 
 
